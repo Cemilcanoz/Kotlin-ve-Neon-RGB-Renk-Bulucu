@@ -26,3 +26,10 @@ This project demonstrates interactive UI design, state management, and custom dr
 <img width="1908" height="1079" alt="Ekran görüntüsü 2026-02-05 212310" src="https://github.com/user-attachments/assets/a1c2eb10-ca6c-4bb9-acc0-7278e613e9d6" />
 <img width="1919" height="1073" alt="Ekran görüntüsü 2026-02-05 212224" src="https://github.com/user-attachments/assets/cda39b6d-5ffc-46ae-8787-3d8d8c3181a1" />
 
+# Neon RGB Renk Bulucu
+
+Kotlin ve Jetpack Compose kullanılarak geliştirilmiş interaktif bir neon renk keşif uygulaması.
+
+RGB sliderları ile renk oluşturabilir bunların kodlarınu kopyalayabilir  ve seçilen rengin kare, üçgen ve daire şekilleri üzerinde anlık değişimini görebilirsiniz.
+
+Bu proje, Compose ile dinamik UI yönetimini ve özel çizimleri öğrenmek amacıyla yapılmıştır.
